@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Dukoapp\\Content\\": "src/Dukoapp/Content/"
+            "Dukoapp\\Content\\": "src/"
         }
     }
 }
